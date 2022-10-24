@@ -1,0 +1,11 @@
+Id,Name,Path;;
+1,WATER,..\..\assets\img\outras\WATER.png;;
+2,FIRE,..\..\assets\img\outras\FIRE.png;;
+3,EARTH,..\..\assets\img\outras\TERRA.png;;
+4,DARK,..\..\assets\img\outras\DARK.png;;
+5,WIND,..\..\assets\img\outras\WIND.png;;
+6,SPELL_CARD,..\..\assets\img\outras\MAGIA.png;;
+7,TRAP_CARD,..\..\assets\img\outras\ARMADILHA.png;;
+8,LIGHT,..\..\assets\img\outras\LUZ.png;;
+9,DIVINE,..\..\assets\img\outras\DIINE.png;;
+10,SKILL,..\..\assets\img\outras\SKILL.png;;
